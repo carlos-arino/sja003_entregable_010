@@ -1,4 +1,4 @@
-/* Ejercicio entregable 001
+/* Ejercicio entregable 010
  Deben de utilizar este archivo los alumnos con c<5, d<5, u>=5
  siendo c,d,u las tres últimas cifras del DNI 22000cdu -W
  Luminosidad y motor paso a paso con potenciometro
