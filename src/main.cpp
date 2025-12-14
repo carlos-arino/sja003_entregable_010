@@ -24,10 +24,10 @@ void setup()
   Serial.println("Hello, ESP32!");
   ledcAttachPin(26, 0);
   ledcSetup(0, 1000, 10); // frecuencia 1KHz y resolucion 2^10
-  pinMode(19, INPUT);
-  pinMode(18, INPUT);
-  pinMode(5, INPUT);
-  pinMode(17, INPUT);
+  pinMode(encAPin, INPUT);
+  pinMode(encBPin, INPUT);
+  pinMode(encCPin, INPUT);
+  pinMode(encDPin, INPUT);
 }
 
 void loop()
