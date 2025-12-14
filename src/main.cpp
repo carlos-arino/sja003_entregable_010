@@ -1,7 +1,7 @@
 /* Ejercicio entregable 010
  Deben de utilizar este archivo los alumnos con c<5, d<5, u>=5
  siendo c,d,u las tres últimas cifras del DNI 22000cdu -W
- Luminosidad y motor paso a paso con potenciometro
+ Luminosidad y motor continua con encoder
  Para cambiar Luminosidad o haz click sobre el sensor NTC durante la simulacion
  rellenar vuestro nombre y DNI
  NOMBRE ALUMNO: XXXXX
